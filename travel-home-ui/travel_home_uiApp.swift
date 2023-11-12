@@ -11,7 +11,8 @@ import SwiftUI
 struct travel_home_uiApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DiscoverView()
+//            LocationNotificationsView()
         }
     }
 }
